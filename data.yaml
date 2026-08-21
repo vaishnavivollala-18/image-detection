@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['vaishnavi09']
+
+roboflow:
+  workspace: vaishnavis-workspace-gdhj2
+  project: vaishnavi09
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/vaishnavis-workspace-gdhj2/vaishnavi09/2
